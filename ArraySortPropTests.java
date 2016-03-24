@@ -7,7 +7,7 @@ import static org.junit.Assert.*;
 
 public class ArraySortPropTests {
 
-    private static final int numTestArrays = 150;
+    private static final int numTestArrays = 200;
 
     private int[][] generateRandomArrays(int maxSize){
         int[][] randArrs = new int[numTestArrays][];
